@@ -35,4 +35,6 @@ In this workshop we will cover the basics of Convolutional Neural Networks. We w
 - [Goodfellow *et al* Deep Learning book](http://deeplearningbook.org)
 - [Chris Olah's article on feature visualization](https://distill.pub/2017/feature-visualization/)
 - [Keras tutorial on transfer learning and data augmentation](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
-
+- [Series on Convolutional Neural Nets by Chris Olah](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
+- [Image convolution visualization]() - more focused on traditional image processing, but gives a good intuition on the mechanics of convolutions
+- [Backpropagation through convolutional layers](https://becominghuman.ai/back-propagation-in-convolutional-neural-networks-intuition-and-code-714ef1c38199)
